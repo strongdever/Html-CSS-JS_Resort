@@ -2450,3 +2450,22 @@ picture, figure, .image_wrap {
     color: #3E3A39;
     margin-bottom: 8rem;
 }
+
+.page-faq .faq-block-list {
+    position: relative;
+    display: block;
+}
+
+.page-faq .faq-block-list > li:not(:last-child) {
+    margin-bottom: 8rem;
+}
+
+.page-faq .faq-block-list .faq-block .block-title {
+    position: relative;
+    font-weight: 500;
+    font-size: 2.4rem;
+    text-align: left;
+    letter-spacing: 0.08em;
+    color: #3E3A39;
+    margin-bottom: 4rem;
+}
