@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@300;400;500;700;800;900&family=Noto+Sans+JP:wght@300;400;500;700;900&display=swap');
+
+@font-face {
+    font-family: 'Yu Gothic';
+    src: url('YuGothB.ttc') format('truetype');
+    font-style: normal;
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'Yu Gothic';
+    src: url('YuGothM.ttc') format('truetype');
+    font-style: normal;
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'Yu Gothic';
+    src: url('YuGothR.ttc') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'Yu Gothic';
+    src: url('YuGothL.ttc') format('truetype');
+    font-style: normal;
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'Yu Mincho';
+    src: url('YuMinchoDB.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: 'Yu Mincho';
+    src: url('YuMinchoM.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'Yu Mincho';
+    src: url('YuMinchoR.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'Yu Mincho';
+    src: url('YuMinchoL.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 300;
+}
